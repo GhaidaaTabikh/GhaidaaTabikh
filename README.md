@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Ghaidaa👋
 I am Full-stack developer who is familiar with work that requires patience, Accuracy, Concentration, logical analysis, solving problems, group work as well as individual work.
 I have a passion for programming and physics and hope to find a connection between them to work in what I want.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as Teaching Assistant
-- 💬 Ask me about  <br/>
+- 💬 Ask me about  <br/> <br/>
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
