@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as Teaching Assistant
 - 💬 Ask me about  
-![image]({[(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}])
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <img src="{[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E]}" />
 <img src="{(https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)}" />
 <img src="{(https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)}" />
