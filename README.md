@@ -1,7 +1,7 @@
 ### Hi there I'm Ghaidaa👋
 I am Full-stack developer who is familiar with work that requires patience, Accuracy, Concentration, logical analysis, solving problems, group work as well as individual work.
-I have a passion for programming and physics and hope to find a connection between them to work in what I want.
-<hr/>
+I have a passion for programming and physics and hope to find a connection between them to work in what I want. /
+
 <!--
 **GhaidaaTabikh/GhaidaaTabikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
