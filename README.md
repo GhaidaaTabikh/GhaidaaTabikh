@@ -2,6 +2,7 @@
 I am Full-stack developer who is familiar with work that requires patience, Accuracy, Concentration, logical analysis, solving problems, group work as well as individual work.
 I have a passion for programming and physics and hope to find a connection between them to work in what I want.
 
+# 
 
 <!--
 **GhaidaaTabikh/GhaidaaTabikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +24,15 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I will be happy to help 😄
+- 📫 Contact me through: <br/> <br/>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]( https://www.linkedin.com/in/ghaidaa-tabikh/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](tabikh.ghaaidaa@gmail.com)
+
+
+
+ #
