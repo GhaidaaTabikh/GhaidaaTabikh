@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I will be happy to help 😄
 - 📫 Contact me through: <br/> <br/>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]( https://www.linkedin.com/in/ghaidaa-tabikh/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](tabikh.ghaaidaa@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tabikh.ghaaidaa@gmail.com)
 
 
 
