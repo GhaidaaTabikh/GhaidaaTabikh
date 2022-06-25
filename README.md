@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I will be happy to help 😄
-- 📫 Contact me through: <br/> <br/>
+ #
+ #### Contact me through:
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]( https://www.linkedin.com/in/ghaidaa-tabikh/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tabikh.ghaidaa@gmail.com)
 
